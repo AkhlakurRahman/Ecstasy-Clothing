@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAwxqgjIL29qvGxZd5pWIm37qkyMOhOm6I',
+  apiKey: API-KEY,
   authDomain: 'react-hooks-94ab0.firebaseapp.com',
   databaseURL: 'https://react-hooks-94ab0.firebaseio.com',
   projectId: 'react-hooks-94ab0',
